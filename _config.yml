@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: 黄镇燊的网页
-email:739364130@qq.com
+email: 739364130@qq.com
 description:
 baseurl: /jekyll-theme-basically-basic
 url: https://hzs739364130.gitee.io
