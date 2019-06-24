@@ -17,7 +17,7 @@ lang: en-US
 title: 黄镇燊的网页
 email: 739364130@qq.com
 description:
-baseurl: /jekyll-theme-basically-basic
+baseurl: "Fit_shen" # the optional subpath of your site, e.g. "/blog"
 url: https://hzs739364130.gitee.io
 author:
   name: 黄镇燊
